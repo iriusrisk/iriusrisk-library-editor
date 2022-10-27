@@ -6,6 +6,11 @@ IriusRisk libraries are loaded into a IRLibraryEditorProject object that handles
 
 The project can be exported and imported in JSON.
 
+## Disclaimer
+
+This software is provided to you "as-is" and without warranty of any kind, express, implied or otherwise, including without limitation, any warranty of fitness for a particular purpose. 
+If possible, this tool should not be deployed in a cloud environment, the Internet, or any other public network, as it has been developed to run on localhost. Doing so is at the user's own risk.
+
 ## How to run
 
 There are two launchers in this repository:
